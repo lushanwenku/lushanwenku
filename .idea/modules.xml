@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lushanwenku-guji/guji.iml" filepath="$PROJECT_DIR$/lushanwenku-guji/guji.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lushanwenku.iml" filepath="$PROJECT_DIR$/lushanwenku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lushanwenku-base/lushanwenku-base.iml" filepath="$PROJECT_DIR$/lushanwenku-base/lushanwenku-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lushanwenku-dao/lushanwenku-dao.iml" filepath="$PROJECT_DIR$/lushanwenku-dao/lushanwenku-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lushanwenku-service/lushanwenku-service.iml" filepath="$PROJECT_DIR$/lushanwenku-service/lushanwenku-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lushanwenku-web/lushanwenku-web.iml" filepath="$PROJECT_DIR$/lushanwenku-web/lushanwenku-web.iml" />
+    </modules>
+  </component>
+</project>

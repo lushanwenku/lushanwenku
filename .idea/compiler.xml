@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="guji" />
+        <module name="lushanwenku-dao" />
+        <module name="lushanwenku-base" />
+        <module name="lushanwenku-service" />
+        <module name="lushanwenku-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="guji" target="1.8" />
+      <module name="lushanwenku" target="1.8" />
+      <module name="lushanwenku-base" target="1.8" />
+      <module name="lushanwenku-dao" target="1.8" />
+      <module name="lushanwenku-service" target="1.8" />
+      <module name="lushanwenku-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="guji" options="-parameters" />
+      <module name="lushanwenku-base" options="-parameters" />
+      <module name="lushanwenku-dao" options="-parameters" />
+      <module name="lushanwenku-service" options="-parameters" />
+      <module name="lushanwenku-web" options="-parameters" />
+    </option>
+  </component>
+</project>

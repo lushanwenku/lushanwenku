@@ -7,13 +7,14 @@
     <artifactId>guji</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>guji</name>
-    <description>抓取古籍</description>
+    <description>古籍</description>
 
     <parent>
-        <groupId>com.lushanwk</groupId>
-        <artifactId>lushanwk</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <groupId>com.lushanwenku</groupId>
+        <artifactId>lushanwenku</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
     </parent>
+
 
     <dependencies>
 

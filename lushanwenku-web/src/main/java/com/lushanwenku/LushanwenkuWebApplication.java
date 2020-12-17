@@ -1,13 +1,13 @@
-package com.lushanwenku.guji;
+package com.lushanwenku;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GujiApplication {
+public class LushanwenkuWebApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(GujiApplication.class, args);
+        SpringApplication.run(LushanwenkuWebApplication.class, args);
     }
 
 }

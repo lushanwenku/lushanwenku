@@ -28,11 +28,11 @@
     </properties>
 
     <modules>
-        <module>lushanwenku-guji</module>
         <module>lushanwenku-base</module>
         <module>lushanwenku-dao</module>
         <module>lushanwenku-service</module>
         <module>lushanwenku-web</module>
+        <module>lushanwenku-guji</module>
     </modules>
 
     <dependencies>
